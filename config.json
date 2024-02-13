@@ -1,0 +1,10 @@
+{
+  "token": "BOT_TOKEN_HERE",
+  "stripeKey": "STRIPE_TOKEN_HERE",
+  "email": "EMAIL@EXAMPLE.com",
+  "emailPassword": "EMAIL_APP_PASSWORD",
+  "roleName": "ROLE_NAME",
+  "guildID": "SERVER_ID",
+  "ownerID": "ADMIN_DISCORD_ID",
+  "devID": "DEVELOPER_DISCORD_ID_OPTIONAL"
+}
