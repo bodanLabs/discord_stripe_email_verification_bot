@@ -1,4 +1,5 @@
-Discord Verification Bot
+**Discord Verification Bot**
+
 Description
 This Discord bot automates the verification process for users on a Discord server. It verifies users by checking their email against active subscriptions in a Stripe account and assigns a specific role to verified users. The bot also supports commands for managing email verification status and querying subscription status.
 
