@@ -40,6 +40,3 @@ The bot also includes a task loop that periodically checks the subscription stat
 
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-This project is open source and available under the MIT License.
